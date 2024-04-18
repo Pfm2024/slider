@@ -5,7 +5,7 @@ st.write(f"Tu edad es ...{edad}")
 url40="https://www.youtube.com/watch?v=HKStqRFOEWg"
 url20="https://www.youtube.com/shorts/vjtftw7dyxM"
 
-if edad > 40;
+if edad > 40:
   st.video(url40)
 else:
   st.video(url20)
