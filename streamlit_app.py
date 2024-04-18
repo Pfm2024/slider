@@ -1,5 +1,5 @@
 import streamlit as st
-edad=st.slider("edad", min_value=10, max_value=40, step=2)
+edad=st.slider("edad", min_value=10, max_value=70, step=2)
 st.write(f"Tu edad es ...{edad}")
 
 url40="https://www.youtube.com/watch?v=HKStqRFOEWg"
